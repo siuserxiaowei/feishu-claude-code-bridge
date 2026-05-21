@@ -1,5 +1,18 @@
 # Feishu-Claude-Code-Bridge
 
+<!-- SIUSER-SEO-INTRO:START -->
+
+## 项目介绍 / Project Introduction
+
+**中文介绍**：飞书与 Claude Code 的协作桥接项目，把团队消息、文档和 AI 编程工作流连接起来。
+
+**English**: A Feishu and Claude Code bridge that connects team messages, documents, and AI coding workflows.
+
+**SEO 关键词 / SEO Keywords**: Feishu, Claude Code, AI coding, team workflow, 飞书自动化
+
+<!-- SIUSER-SEO-INTRO:END -->
+
+
 在手机飞书上远程操控你电脑上的 Claude Code。不是简单的 AI 对话，是完整的 Claude Code 体验——能读写文件、跑命令、改代码。
 
 ```
@@ -148,3 +161,17 @@ for await (const msg of q) {
 ## License
 
 MIT
+
+<!-- SIUSER-CONTACT:START -->
+
+## 联系我 / Contact
+
+想交流 AI 工具、内容自动化、SEO、私域增长或项目合作，可以扫码加我微信。
+
+For collaboration on AI tools, content automation, SEO, private-domain growth, or product experiments, scan the WeChat QR code below.
+
+<img src="https://raw.githubusercontent.com/siuserxiaowei/siuserxiaowei/main/assets/contact/wechat-qrcode.jpg" width="180" alt="WeChat QR code / 微信二维码" />
+
+**关键词 / Keywords**: Feishu, Claude Code, AI coding, team workflow, AI tools, AI automation, GitHub Pages, SEO
+
+<!-- SIUSER-CONTACT:END -->
