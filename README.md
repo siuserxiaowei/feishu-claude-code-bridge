@@ -1,5 +1,65 @@
 # Feishu-Claude-Code-Bridge
 
+<!-- SIUSER-REPO-GUIDE:START -->
+## Repository Guide
+
+### What This Repository Does
+
+飞书 Claude Code 桥接：连接飞书协作和 AI 编程工作流的团队自动化工具。
+
+English summary: Feishu Claude Code bridge for connecting team collaboration with AI coding workflows.
+
+### Online Entry Points
+
+- GitHub repository: https://github.com/siuserxiaowei/feishu-claude-code-bridge
+- Live / GitHub Pages: not configured for this repository
+- Default branch: `main`
+- Primary language: `JavaScript`
+
+### How To Read / Learn This Repository
+
+1. 先读本 README，确认项目目标、在线入口和本地运行方式。
+2. 查看 `package.json` 的 scripts，确认开发、构建和预览命令。
+3. 如果要修改内容，先小范围改动，再运行本 README 中的验证命令。
+
+### Clone This Repository
+
+```bash
+git clone https://github.com/siuserxiaowei/feishu-claude-code-bridge.git
+cd feishu-claude-code-bridge
+```
+
+### Run Or View Locally
+
+```bash
+npm install
+npm run dev
+```
+
+### Repository Map
+
+| Path | Purpose |
+| --- | --- |
+| `README.md` | 项目入口说明，先读这里。 |
+| `package.json` | Node/前端项目配置和常用脚本。 |
+| `bridge.mjs` | 项目文件。 |
+| `package-lock.json` | 项目文件。 |
+| `飞书接入ClaudeCode全过程.md` | 项目文件。 |
+
+### Maintenance Notes
+
+- Keep this README in sync when the project purpose, live link, or run commands change.
+- Prefer small, focused commits when changing code, data, or generated pages.
+- Run the relevant build or validation command before publishing changes.
+- If this is a generated/static archive, update the source data first, then regenerate the public files.
+
+### Privacy And Safety
+
+- Do not commit API keys, tokens, passwords, cookies, private URLs, or internal account data.
+- Keep private source material out of public GitHub Pages output unless it has been explicitly cleared for publication.
+- When in doubt, run a quick secret scan such as `rg -n "token|secret|password|access_key|authorization"` before pushing.
+<!-- SIUSER-REPO-GUIDE:END -->
+
 <!-- SIUSER-SEO-INTRO:START -->
 
 ## 项目介绍 / Project Introduction
@@ -11,7 +71,6 @@
 **SEO 关键词 / SEO Keywords**: Feishu, Claude Code, AI coding, team workflow, 飞书自动化
 
 <!-- SIUSER-SEO-INTRO:END -->
-
 
 在手机飞书上远程操控你电脑上的 Claude Code。不是简单的 AI 对话，是完整的 Claude Code 体验——能读写文件、跑命令、改代码。
 
